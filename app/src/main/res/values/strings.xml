@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">文件管理器</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">setting</string>
+    <string name="btn">操作</string>
+    <string name="more">更多</string>
+    <string name="sure">确定</string>
+    <string name="back">返回</string>
+    <string name="rename">重命名文件</string>
+    <string name="move">移动文件</string>
+    <string name="background_color">背景颜色</string>
+    <string name="input_path">请输入目标目录的路径</string>
+    <string name="input_new_name">请输入文件新名</string>
+    <string name="delete">删除文件</string>
+    <string name="sure_delete">确定删除文件？</string>
+    <string name="please">请点击选项</string>
+    <string name="creat">新建文件夹</string>
+    <string name="find">查找文件</string>
+    <string name="intput_find">请输入查找文件名称</string>
+    <string name="input_dir_name">请输入文件夹名字</string>
+    <string name="thanks">谢谢观看，亲</string>
+    <string name="detil">文件详情</string>
+    <string name="information">软件信息</string>
+    <string name="app_information">第二个练手APP。\n2015.09.11起。\n2015.09.18终。\n纯属娱乐。\n不喜勿喷。</string>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="red">#FF0000</color>
+    <color name="black">#050505</color>
+    <color name="green">#25dc0d</color>
+    <color name="blue">#0f42d9</color>
+    <color name="purple">#7e09cc</color>
+    <color name="gray">#666161</color>
+
+
+</resources>
